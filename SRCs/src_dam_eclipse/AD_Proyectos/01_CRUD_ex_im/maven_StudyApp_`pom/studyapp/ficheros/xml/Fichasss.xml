@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studyapp>
+    <fichas>
+        <id_ficha>1</id_ficha>
+        <pregunta>me llamo?</pregunta>
+        <respuesta>angelaaa yweee</respuesta>
+    </fichas>
+    <fichas>
+        <id_ficha>2</id_ficha>
+        <pregunta>eee</pregunta>
+        <respuesta>rrr</respuesta>
+    </fichas>
+    <fichas>
+        <id_ficha>3</id_ficha>
+        <pregunta>rrr</pregunta>
+        <respuesta>fefsdfwe</respuesta>
+    </fichas>
+    <fichas>
+        <id_ficha>4</id_ficha>
+        <pregunta>sisisisi q</pregunta>
+        <respuesta>yeyeyeyeye</respuesta>
+    </fichas>
+    <fichas>
+        <id_ficha>5</id_ficha>
+        <pregunta>tomatoms</pregunta>
+        <respuesta>tomaktomq33</respuesta>
+    </fichas>
+</studyapp>

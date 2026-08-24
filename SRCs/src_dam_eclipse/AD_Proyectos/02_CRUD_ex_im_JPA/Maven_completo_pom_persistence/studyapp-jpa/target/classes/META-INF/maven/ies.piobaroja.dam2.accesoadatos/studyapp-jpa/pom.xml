@@ -1,0 +1,44 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ies.piobaroja.dam2.accesoadatos</groupId>
+  <artifactId>studyapp-jpa</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+		<!-- Dependencia JPA https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager -->
+		<dependency>
+			 <groupId>org.hibernate</groupId>
+			 <artifactId>hibernate-entitymanager</artifactId>
+			 <version>5.6.15.Final</version>
+		</dependency>
+		
+		<!-- Dependencia de mariaDB https://mvnrepository.com/artifact/org.mariadb.jdbc/mariadb-java-client -->
+		<dependency>
+			 <groupId>org.mariadb.jdbc</groupId>
+			 <artifactId>mariadb-java-client</artifactId>
+			 <version>3.4.1</version>
+		</dependency>
+	  
+	  	<!-- Dependencias para exportacion de ficheros-->
+	  	<dependency>
+	        <groupId>com.google.code.gson</groupId>
+	        <artifactId>gson</artifactId>
+	        <version>2.10.1</version>
+	    </dependency>
+	    
+	    <dependency>
+	        <groupId>jakarta.xml.bind</groupId>
+	        <artifactId>jakarta.xml.bind-api</artifactId>
+	        <version>3.0.1</version>
+	    </dependency>
+	
+	    <dependency>
+	        <groupId>com.sun.xml.bind</groupId>
+	        <artifactId>jaxb-impl</artifactId>
+	        <version>3.0.2</version>
+	        <scope>runtime</scope>
+	    </dependency>
+	    
+  	</dependencies>
+  	
+</project>
