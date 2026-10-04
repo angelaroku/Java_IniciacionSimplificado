@@ -1,4 +1,4 @@
-ß# Contexto sobre el repo: <em>"IniciacionJava_RutaSimplificada"</em>
+## Contexto sobre el repo: <em>"IniciacionJava_RutaSimplificada"</em>
 > Aquí encontraras una ruta simplificada de lo que he podido aprender de Java en este tiempo. Dentro del repo la información que dejo disponible esta ordenada de esta manera:
 
 |   PDF's |   SRC's  | Otros |
